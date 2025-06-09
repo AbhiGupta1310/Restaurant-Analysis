@@ -92,4 +92,34 @@ Several regression models were explored to find the best performer:
 ---
 
 ## 🗂️ Project Structure
+├── Level1.ipynb # Initial data understanding & visual analysis
+├── Level3_ML_pipeline.ipynb # Model building, evaluation & insights
+├── README.md # You're here!
+
+
+---
+
+## 📌 Tech Stack
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Scikit-learn (Regression models, GridSearch, PDP)
+- Jupyter Notebooks
+- ANOVA, Cross Validation, Log Transform, EDA
+
+---
+
+## 📬 Connect with Me
+
+I'm always up for collaborations, ideas, or geeky conversations around:
+- Applied ML in F&B, travel, and local commerce
+- Model interpretability and storytelling
+- Real-world deployment of data science pipelines
+
+
+---
+
+
+
+
+
 
